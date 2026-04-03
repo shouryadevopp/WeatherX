@@ -48,7 +48,7 @@ function prepareWeatherUI() {
   showLoading();
 }
 function showToast(message) {
-  toast.textContent = message;
+  toast.innerText = message;
   toast.classList.remove("translate-x-[120%]");
   toast.classList.add("translate-x-0");
 
