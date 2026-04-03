@@ -1,22 +1,28 @@
-#  Weather Scope
+# Weather Scope
 
 # Description
+
 A simple weather app created by using HTML,Vanilla css,Tailwind CSS and JavaScript.
 
 ## Features
+
 - Search Weather by city.
 - Current location Weather.
 - 5 day forecast.
 
-## Technologies used 
+## Technologies used
+
 -HTML
 -Vanilla CSS
 -Tailwind CSS
 -JAVASCRIPT
 -Weather API
 
-## Author 
---  Shourya Gupta --
+## Author
 
-<!-- Github link -->
-<!-- https://github.com/shouryadevopp/WeatherX>
+-- Shourya Gupta --
+
+## GitHub Repository
+
+[View project on GitHub]
+(https://github.com/shouryadevopp/WeatherX>)
