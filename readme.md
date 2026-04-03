@@ -19,4 +19,4 @@ A simple weather app created by using HTML,Vanilla css,Tailwind CSS and JavaScri
 --  Shourya Gupta --
 
 <!-- Github link -->
-<!-- >
+<!-- https://github.com/shouryadevopp/WeatherX>
