@@ -466,7 +466,7 @@ async function fetchForecastByCoords(lat, lon) {
   return fetchWeatherData(url, "Unable to fetch forecast");
 }
 async function fetchWeatherByCity(city) {
-  const trimmedCity = city.trim();
+  const trimmedCity = city?.trim();
 
   if (!trimmedCity) {
     showToast("Please enter a city name");
