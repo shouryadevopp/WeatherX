@@ -435,6 +435,7 @@ function handleWeatherSuccess(current, forecast) {
   if (current && current.name) {
     saveRecentSearch(current.name);
     //showToast(`Weather loaded for ${current.name}`);
+    cityInput.value = "";
   }
 }
 function handleWeatherError(message) {
